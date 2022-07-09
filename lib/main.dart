@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Vimqfin',
       theme: ThemeData(
        
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.grey,
       ),
       home: const MyHomePage(title: 'Home'),
     );
